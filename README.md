@@ -80,10 +80,9 @@ Output: P(R-peak at center)
 ![rpeak_training_result_plot](./plot/R_Classifier_ScreenShoot.PNG)
 
 ![sample_rpeak_output](./plot/compare_refined_vs_classifier_rpeaks_1.png)
-```text
+
 the training result is saved in classifier_rpeak_testset.csv
 
-```
 
 # SCP codes Detection
 
@@ -152,7 +151,5 @@ python scp_code_classifier.py
 
 
 ![rpeak_training_result_plot](./plot/SCP_code_classifier.PNG)
-```text
-the training result is saved in scp_code_predictions.csv
 
-```
+the training result is saved in scp_code_predictions.csv
