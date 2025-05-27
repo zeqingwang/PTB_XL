@@ -87,7 +87,7 @@ the training result is saved in classifier_rpeak_testset.csv
 
 # SCP codes Detection
 
-Below is an overview of our ECG scp codes detection classifier training pipeline.
+Below is an overview of our ECG scp codes detection classifier training pipeline.(Due to limitation of hardware, only trained for 5 labels here)
 ![SCP Codes Detection Pipeline](./plot/scp_code.png)
 
 ## Instruction 
